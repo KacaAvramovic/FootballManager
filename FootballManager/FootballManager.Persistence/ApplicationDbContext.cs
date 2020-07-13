@@ -28,7 +28,7 @@ namespace FootballManager.Persistence
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                .UseMySQL("server=localhost;port=3306;database=footbalmanager;uid=root;password=Kaca4891!");
+                .UseMySQL("server=localhost;port=3306;database=footbalmanager;uid=root;password=******");
             }
 
         }
